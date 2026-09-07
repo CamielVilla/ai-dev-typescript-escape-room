@@ -1,4 +1,4 @@
-# TypeScript Escaperoom - Les 4
+# TypeScript Escaperoom
 
 Een gamified TypeScript learning experience met 8 "kamers" (files) vol type challenges. Fix alle TypeScript type errors om te ontsnappen!
 
