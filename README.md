@@ -44,7 +44,7 @@ Elke kamer is een bestand in `src/`. Open ze in volgorde en fix de TypeScript er
 ## Hoe het werkt
 
 1. Open een kamer-bestand in Cursor (bijv. `src/kamer1-basics.ts`)
-2. Je ziet rode squiggles — dat zijn TypeScript errors
+2. Je ziet rode squiggles: dat zijn TypeScript errors
 3. Lees de `// TODO:` comments voor hints
 4. Fix de types zodat de errors verdwijnen
 5. Check met `npm run check` of alles klopt
